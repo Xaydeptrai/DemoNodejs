@@ -1,0 +1,38 @@
+GET http://localhost:5000/
+###
+GET http://localhost:5000/api/v1/user/d
+###
+POST http://localhost:5000/api/v1/auth/register
+Content-Type: application/json
+
+{
+  "email": "admin@gmail.com",
+  "password": "123456"
+}
+
+
+###
+POST http://localhost:5000/api/v1/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@gmail.com",
+  "password": "123456"
+}
+
+###
+GET http://localhost:5000/api/v1/user/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJyb2xlX2NvZGUiOiJHMyIsImlhdCI6MTcxNzc2OTkxNSwiZXhwIjoxNzE3NzY5OTIwfQ.j4pxMnNNPD-rz49NlMHcG8lR_7LGOVihWsbzNzBz9t8
+
+###
+GET http://localhost:5000/api/v1/insert/
+
+###
+GET http://localhost:5000/api/v1/product/
+
+###
+GET http://localhost:5000/api/v1/product/?order[]=price&order[]=desc&limit=2&page=2&name=laptop
+
+###
+GET http://localhost:5000/api/v1/product/?quantity[]=15&quantity[]=20
+

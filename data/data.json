@@ -1,0 +1,188 @@
+{
+  "laptop": [
+    {
+      "pid": 1,
+      "name": "Gaming Laptop",
+      "price": 1500.0,
+      "quantity": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "A high-end gaming laptop with powerful graphics.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 2,
+      "name": "Ultrabook",
+      "price": 1200.0,
+      "quantity": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "A sleek and lightweight ultrabook for professionals.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 3,
+      "name": "Business Laptop",
+      "price": 1100.0,
+      "quantity": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "A laptop with high performance for business use.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 4,
+      "name": "2-in-1 Laptop",
+      "price": 1300.0,
+      "quantity": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "A versatile 2-in-1 laptop for both work and play.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 5,
+      "name": "Student Laptop",
+      "price": 700.0,
+      "quantity": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Affordable laptop perfect for students.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 6,
+      "name": "Portable Laptop",
+      "price": 900.0,
+      "quantity": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Lightweight and portable laptop for easy travel.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 7,
+      "name": "Workstation Laptop",
+      "price": 2000.0,
+      "quantity": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Powerful laptop designed for professional workloads.",
+      "category": "Electronics"
+    }
+  ],
+  "smartphone": [
+    {
+      "pid": 8,
+      "name": "Flagship Smartphone",
+      "price": 800.0,
+      "quantity": 25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Latest model with advanced features.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 9,
+      "name": "Budget Smartphone",
+      "price": 300.0,
+      "quantity": 40,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Affordable smartphone with all essential features.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 10,
+      "name": "Gaming Smartphone",
+      "price": 1000.0,
+      "quantity": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "High-performance smartphone for gaming.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 11,
+      "name": "Camera Smartphone",
+      "price": 900.0,
+      "quantity": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Smartphone with advanced camera features.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 12,
+      "name": "Compact Smartphone",
+      "price": 600.0,
+      "quantity": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Compact and lightweight smartphone.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 13,
+      "name": "Foldable Smartphone",
+      "price": 1500.0,
+      "quantity": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Innovative foldable smartphone.",
+      "category": "Electronics"
+    },
+    {
+      "pid": 14,
+      "name": "5G Smartphone",
+      "price": 700.0,
+      "quantity": 35,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Smartphone with 5G connectivity.",
+      "category": "Electronics"
+    }
+  ],
+  "accessories": [
+    {
+      "pid": 15,
+      "name": "Mechanical Keyboard",
+      "price": 100.0,
+      "quantity": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Mechanical keyboard with RGB lighting.",
+      "category": "Accessories"
+    },
+    {
+      "pid": 16,
+      "name": "Wireless Mouse",
+      "price": 50.0,
+      "quantity": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Ergonomic wireless mouse.",
+      "category": "Accessories"
+    },
+    {
+      "pid": 17,
+      "name": "Gaming Headset",
+      "price": 150.0,
+      "quantity": 25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "High-quality gaming headset with surround sound.",
+      "category": "Accessories"
+    },
+    {
+      "pid": 18,
+      "name": "USB-C Hub",
+      "price": 60.0,
+      "quantity": 40,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Versatile USB-C hub with multiple ports.",
+      "category": "Accessories"
+    },
+    {
+      "pid": 19,
+      "name": "Portable Charger",
+      "price": 40.0,
+      "quantity": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "Compact and powerful portable charger.",
+      "category": "Accessories"
+    },
+    {
+      "pid": 20,
+      "name": "Webcam",
+      "price": 80.0,
+      "quantity": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKu-tvYFa2sT8HfysHoOhH2jE_alHIASxMA&s",
+      "description": "HD webcam for video conferencing.",
+      "category": "Accessories"
+    }
+  ]
+}
